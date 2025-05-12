@@ -1,6 +1,6 @@
 Hi, I'm Preetham Thyagarthy S👋
 
-🌱 I’m **Preetham Thyagarthy S**, currently an intern at** X-WorkZ**, where I'm learning Java to develop clean, efficient applications, I enjoy solving problems, writing readable code, and creating reliable solutions.
+🌱 I’m **Preetham Thyagarthy S**, currently an intern at ** X-WorkZ** , where I'm learning Java to develop clean, efficient applications, I enjoy solving problems, writing readable code, and creating reliable solutions.
 
 🔭 **What I'm working on**
   - Core Java
@@ -15,6 +15,6 @@ Hi, I'm Preetham Thyagarthy S👋
   - 
 📮**Contact Me**
   - ** 📧Email **: thyagarthypreetham@gmail.com
-  -🔗LinkedIn: https://www.linkedin.com/in/preetham-thyagarthy-005b30245
+  - 🔗**LinkedIn**: https://www.linkedin.com/in/preetham-thyagarthy-005b30245
 
- ⚡_"Great code starts with a clear why."_
+ ⚡ "_Great code starts with a clear why_"
