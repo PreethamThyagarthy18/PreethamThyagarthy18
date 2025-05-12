@@ -1,6 +1,6 @@
 Hi, I'm Preetham Thyagarthy S👋
 
-🌱 I’m **Preetham Thyagarthy S**, currently an intern at ** X-WorkZ** , where I'm learning Java to develop clean, efficient applications, I enjoy solving problems, writing readable code, and creating reliable solutions.
+🌱 I’m **Preetham Thyagarthy S**, currently an intern at **X-WorkZ** , where I'm learning Java to develop clean, efficient applications, I enjoy solving problems, writing readable code, and creating reliable solutions.
 
 🔭 **What I'm working on**
   - Core Java
