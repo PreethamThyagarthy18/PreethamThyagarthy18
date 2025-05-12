@@ -12,9 +12,9 @@ Hi, I'm Preetham Thyagarthy S👋
   - **Languages**: Java
   - **Tools**: MySQL, Git, VS Code, IntelliJ
   - **Learning**: Web Technologies, Clean coding practices
-  - 
+    
 📮**Contact Me**
-  - ** 📧Email **: thyagarthypreetham@gmail.com
+  - 📧**Email**: thyagarthypreetham@gmail.com
   - 🔗**LinkedIn**: https://www.linkedin.com/in/preetham-thyagarthy-005b30245
 
  ⚡ "_Great code starts with a clear why_"
