@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Preetham Thyagarthy S👋
 
-<!--
-**PreethamThyagarthy18/PreethamThyagarthy18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m **Preetham Thyagarthy S**, currently an intern at** X-WorkZ**, where I'm learning Java to develop clean, efficient applications, I enjoy solving problems, writing readable code, and creating reliable solutions.
 
-Here are some ideas to get you started:
+🔭 **What I'm working on**
+  - Core Java
+  - Object-Oriented Programming
+  - Practicing and improving core concepts in softaware development
+  - Staying consistent with GitHub commits and hands-on practice
+    
+🛠 **Tech Stack**
+  - **Languages**: Java
+  - **Tools**: MySQL, Git, VS Code, IntelliJ
+  - **Learning**: Web Technologies, Clean coding practices
+  - 
+📮**Contact Me**
+  - ** 📧Email **: thyagarthypreetham@gmail.com
+  -🔗LinkedIn: https://www.linkedin.com/in/preetham-thyagarthy-005b30245
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ⚡_"Great code starts with a clear why."_
